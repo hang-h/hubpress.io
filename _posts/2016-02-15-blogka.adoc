@@ -1,4 +1,4 @@
-:hp-alt-title: blog ka
+:hp-alt-title: blogka
 
 = 맥용 카카오톡을 까보자..
 
