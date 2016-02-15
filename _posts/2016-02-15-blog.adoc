@@ -1,4 +1,5 @@
-= 123
+:hp-alt-title: blog
+= 깃헙 블로그
 
 Test Demo
 
