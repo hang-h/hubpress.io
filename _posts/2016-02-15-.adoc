@@ -1,6 +1,6 @@
-:hp-filename: 1
 = 깃헙 블로그 테스트
 
 테스트 인껭
 
 :hp-tags: title
+:hp-filename: demo.html
